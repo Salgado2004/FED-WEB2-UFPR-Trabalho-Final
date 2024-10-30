@@ -27,16 +27,9 @@
     *ngFor="let request of getPaginatedRequests(searchQuery)"
     [request]="request"
   ></app-request-card>
+  <app-pagination-control [currentPage]="currentPage" [nextPage]="nextPage" [previousPage]="previousPage" [totalPages]="totalPages" />
 </div>
 <div *ngIf="displayTable" [ngClass]="style.tableDisplay">
   <app-request-table [requests]="getPaginatedRequests()" />
-</div>
-
-<div [ngClass]="style.paginationControl">
-  <app-button [props]="leftButtonProp"></app-button>
-  <span [ngClass]="style.pageText"
-    >Página {{ currentPage }} de {{ totalPages }}</span
-  >
-  <app-button [props]="rightButtonProp"></app-button>
 </div>
 <app-footer></app-footer>
