@@ -83,6 +83,12 @@
                 <p><strong>dependabot[bot]</strong></p>
             </a>
         </td>
+       <td align="center">
+            <a href="https://github.com/apps/github-actions">
+                <img src="contributors/github_actions_bot_.png" width="100px;" alt="github-actions[bot]" />
+                <p><strong>github-actions[bot]</strong></p>
+            </a>
+        </td>
 	</tr>
 </table>
 <!-- /contributors -->
