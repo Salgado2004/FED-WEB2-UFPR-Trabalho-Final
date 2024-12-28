@@ -91,5 +91,6 @@
         </td>
 	</tr>
 </table>
+<sub>Made with <a href='https://github.com/marketplace/actions/'>Contributors README Chart Generator</a></sub>
 <!-- /contributors -->
 Special thanks to Professor Dr. Razer A. N. R. Montaño
