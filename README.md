@@ -41,37 +41,37 @@
 	<tr>
        <td align="center">
             <a href="https://github.com/Salgado2004">
-                <img src="contributors/salgado2004.png" width="100px;" alt="Salgado2004" />
+                <img src="./contributors/salgado2004.png" width="100px;" alt="Salgado2004" />
                 <p><strong>Salgado2004</strong></p>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/AlissonGSantos">
-                <img src="contributors/alissongsantos.png" width="100px;" alt="AlissonGSantos" />
+                <img src="./contributors/alissongsantos.png" width="100px;" alt="AlissonGSantos" />
                 <p><strong>AlissonGSantos</strong></p>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/raulbana">
-                <img src="contributors/raulbana.png" width="100px;" alt="raulbana" />
+                <img src="./contributors/raulbana.png" width="100px;" alt="raulbana" />
                 <p><strong>raulbana</strong></p>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/matbaaz">
-                <img src="contributors/matbaaz.png" width="100px;" alt="matbaaz" />
+                <img src="./contributors/matbaaz.png" width="100px;" alt="matbaaz" />
                 <p><strong>matbaaz</strong></p>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/Gabriel-Troni">
-                <img src="contributors/gabriel_troni.png" width="100px;" alt="Gabriel-Troni" />
+                <img src="./contributors/gabriel_troni.png" width="100px;" alt="Gabriel-Troni" />
                 <p><strong>Gabriel-Troni</strong></p>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/Pedro-H108">
-                <img src="contributors/pedro_h108.png" width="100px;" alt="Pedro-H108" />
+                <img src="./contributors/pedro_h108.png" width="100px;" alt="Pedro-H108" />
                 <p><strong>Pedro-H108</strong></p>
             </a>
         </td>
@@ -79,18 +79,18 @@
 	<tr>
        <td align="center">
             <a href="https://github.com/apps/dependabot">
-                <img src="contributors/dependabot_bot_.png" width="100px;" alt="dependabot[bot]" />
+                <img src="./contributors/dependabot_bot_.png" width="100px;" alt="dependabot[bot]" />
                 <p><strong>dependabot[bot]</strong></p>
             </a>
         </td>
        <td align="center">
             <a href="https://github.com/apps/github-actions">
-                <img src="contributors/github_actions_bot_.png" width="100px;" alt="github-actions[bot]" />
+                <img src="./contributors/github_actions_bot_.png" width="100px;" alt="github-actions[bot]" />
                 <p><strong>github-actions[bot]</strong></p>
             </a>
         </td>
 	</tr>
 </table>
-<sub>Made with <a href='https://github.com/marketplace/actions/'>Contributors README Chart Generator</a></sub>
+<sub>Made with <a href='https://github.com/marketplace/actions/contributors-readme-chart-generator'>Contributors README Chart Generator</a></sub>
 <!-- /contributors -->
 Special thanks to Professor Dr. Razer A. N. R. Montaño
